@@ -194,7 +194,7 @@ function cadastrarProduto(req, resp){
                 <body>
                     <div class="container text-center">
                         <h1 class="mb-5">Cadastro</h1>
-                        <form method="POST" action="/cadastrarroduto" class="border p-3 row g-3" novalidate>
+                        <form method="POST" action="/cadastrarProduto" class="border p-3 row g-3" novalidate>
                             <div class="col-md-4">
                                 <label for="codigo" class="form-label">Código de barras</label>
                                 <input type="text" class="form-control" id="codigo" name="codigo"  value="${codigo}">
