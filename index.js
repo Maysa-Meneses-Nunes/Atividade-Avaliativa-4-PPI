@@ -23,7 +23,7 @@ app.use(express.urlencoded({ extended: true}));
 
 app.use(express.static('./paginas/publicas'));
 
-const porta = 3000;
+const porta = 4000;
 const host = 'localhost';
 
 var listaProdutos = [];
