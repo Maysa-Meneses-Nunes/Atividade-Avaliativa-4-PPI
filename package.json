@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Maysa-Meneses-Nunes/Atividade-Avaliativa-4-PPI#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "express": "^4.21.1",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "session": "^0.1.0"
   }
 }
