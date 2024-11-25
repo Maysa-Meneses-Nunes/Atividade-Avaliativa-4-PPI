@@ -1,0 +1,25 @@
+{
+  "name": "atividade-avaliativa-4-ppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maysa-Meneses-Nunes/Atividade-Avaliativa-4-PPI.git"
+  },
+  "author": "maysa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maysa-Meneses-Nunes/Atividade-Avaliativa-4-PPI/issues"
+  },
+  "homepage": "https://github.com/Maysa-Meneses-Nunes/Atividade-Avaliativa-4-PPI#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
